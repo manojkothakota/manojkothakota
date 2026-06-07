@@ -96,16 +96,17 @@ manoj = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |Link |
-|---------|-------------|------------|------|
-| 🤖 **Prayan AI** | AI-powered web application with intelligent frontend interactions | JavaScript · AI APIs | [Explore →](https://github.com/manojkothakota/prayan_AI) |live (https://prayan-ai.vercel.app/) |
-| 🏥 **AI Healthcare Platform** | Comprehensive AI-driven healthcare solution with smart diagnostics | Python · ML · AI | [Explore →](https://github.com/manojkothakota/AI_healthcare_platform) |
-| 💊 **Health Insurance ML** | Machine learning model to predict health insurance costs with high accuracy | Python · Scikit-learn · Pandas | [Explore →](https://github.com/manojkothakota/health_insurance) |
-| 🍽️ **Diet Recommendation AI** | Personalized diet recommendation system powered by ML algorithms | Python · ML · NLP | [Explore →](https://github.com/manojkothakota/diet_recommendation) |live (https://dietrecommendation-tg9uukes4s9cyeogyuvvpr.streamlit.app/)|
-| 🗳️ **Election Analysis** | Data-driven election result analysis and prediction system | Python · Data Science | [Explore →](https://github.com/manojkothakota/election) |live (https://election-bqywmgyvxcrm57psbhh5pr.streamlit.app/)|
-| 💧 **Dehydration AI Detection** | AI-based dehydration detection system using physiological signals | Python · Deep Learning | [Explore →](https://github.com/manojkothakota/dehydration-ai-based-detection-) | live (https://5umeuazb5kpdjwpnimkaud.streamlit.app/)|
-| 🧪 **Prompt Testing using AI** | Framework for testing and evaluating LLM prompt effectiveness | Python · LLMs · Prompts | [Explore →](https://github.com/manojkothakota/prompt-testing-using-ai) | live (https://prompt-testing-using-ai-htkfawr7x7wgqpyvvrffoq.streamlit.app/)|
-| 🎓 **ML Internship Work** | Boston House Price & Car Price Prediction — end-to-end ML pipelines | Python · Scikit-learn · Jupyter | [Explore →](https://github.com/manojkothakota/Internship-Report-ml-ai) |
+| Project | Description | Tech Stack | Link | Live |
+|---------|-------------|------------|------|------|
+| 🤖 **Prayan AI** | AI-powered web application with intelligent frontend interactions | JavaScript · AI APIs | [Explore →](https://github.com/manojkothakota/prayan_AI) | [Live →](https://prayan-ai.vercel.app/) |
+| 🏥 **AI Healthcare Platform** | Comprehensive AI-driven healthcare solution with smart diagnostics | Python · ML · AI | [Explore →](https://github.com/manojkothakota/AI_healthcare_platform) | — |
+| 💊 **Health Insurance ML** | Machine learning model to predict health insurance costs with high accuracy | Python · Scikit-learn · Pandas | [Explore →](https://github.com/manojkothakota/health_insurance) | — |
+| 🍽️ **Diet Recommendation AI** | Personalized diet recommendation system powered by ML algorithms | Python · ML · NLP | [Explore →](https://github.com/manojkothakota/diet_recommendation) | [Live →](https://dietrecommendation-tg9uukes4s9cyeogyuvvpr.streamlit.app/) |
+| 🗳️ **Election Analysis** | Data-driven election result analysis and prediction system | Python · Data Science | [Explore →](https://github.com/manojkothakota/election) | [Live →](https://election-bqywmgyvxcrm57psbhh5pr.streamlit.app/) |
+| 💧 **Dehydration AI Detection** | AI-based dehydration detection system using physiological signals | Python · Deep Learning | [Explore →](https://github.com/manojkothakota/dehydration-ai-based-detection-) | [Live →](https://5umeuazb5kpdjwpnimkaud.streamlit.app/) |
+| 🧪 **Prompt Testing using AI** | Framework for testing and evaluating LLM prompt effectiveness | Python · LLMs · Prompts | [Explore →](https://github.com/manojkothakota/prompt-testing-using-ai) | [Live →](https://prompt-testing-using-ai-htkfawr7x7wgqpyvvrffoq.streamlit.app/) |
+| 🎓 **ML Internship Work** | Boston House Price & Car Price Prediction — end-to-end ML pipelines | Python · Scikit-learn · Jupyter | [Explore →](https://github.com/manojkothakota/Internship-Report-ml-ai) | — |
+
 
 </div>
 
