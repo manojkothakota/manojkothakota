@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/manojkothakota)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/manoj-kothakota-3791703a2?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/manojkothakota)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:your@email.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/manojkothakota)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:manojkothakota09@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/manojkothakota1)
 
 <img src="https://komarev.com/ghpvc/?username=manojkothakota&label=Profile%20Views&color=6e40c9&style=for-the-badge" alt="Profile views" />
 
@@ -96,15 +96,15 @@ manoj = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Tech Stack | Link |Link |
 |---------|-------------|------------|------|
-| 🤖 **Prayan AI** | AI-powered web application with intelligent frontend interactions | JavaScript · AI APIs | [Explore →](https://github.com/manojkothakota/prayan_AI) |
+| 🤖 **Prayan AI** | AI-powered web application with intelligent frontend interactions | JavaScript · AI APIs | [Explore →](https://github.com/manojkothakota/prayan_AI) |live (https://prayan-ai.vercel.app/) |
 | 🏥 **AI Healthcare Platform** | Comprehensive AI-driven healthcare solution with smart diagnostics | Python · ML · AI | [Explore →](https://github.com/manojkothakota/AI_healthcare_platform) |
 | 💊 **Health Insurance ML** | Machine learning model to predict health insurance costs with high accuracy | Python · Scikit-learn · Pandas | [Explore →](https://github.com/manojkothakota/health_insurance) |
-| 🍽️ **Diet Recommendation AI** | Personalized diet recommendation system powered by ML algorithms | Python · ML · NLP | [Explore →](https://github.com/manojkothakota/diet_recommendation) |
-| 🗳️ **Election Analysis** | Data-driven election result analysis and prediction system | Python · Data Science | [Explore →](https://github.com/manojkothakota/election) |
-| 💧 **Dehydration AI Detection** | AI-based dehydration detection system using physiological signals | Python · Deep Learning | [Explore →](https://github.com/manojkothakota/dehydration-ai-based-detection-) |
-| 🧪 **Prompt Testing using AI** | Framework for testing and evaluating LLM prompt effectiveness | Python · LLMs · Prompts | [Explore →](https://github.com/manojkothakota/prompt-testing-using-ai) |
+| 🍽️ **Diet Recommendation AI** | Personalized diet recommendation system powered by ML algorithms | Python · ML · NLP | [Explore →](https://github.com/manojkothakota/diet_recommendation) |live (https://dietrecommendation-tg9uukes4s9cyeogyuvvpr.streamlit.app/)|
+| 🗳️ **Election Analysis** | Data-driven election result analysis and prediction system | Python · Data Science | [Explore →](https://github.com/manojkothakota/election) |live (https://election-bqywmgyvxcrm57psbhh5pr.streamlit.app/)|
+| 💧 **Dehydration AI Detection** | AI-based dehydration detection system using physiological signals | Python · Deep Learning | [Explore →](https://github.com/manojkothakota/dehydration-ai-based-detection-) | live (https://5umeuazb5kpdjwpnimkaud.streamlit.app/)|
+| 🧪 **Prompt Testing using AI** | Framework for testing and evaluating LLM prompt effectiveness | Python · LLMs · Prompts | [Explore →](https://github.com/manojkothakota/prompt-testing-using-ai) | live (https://prompt-testing-using-ai-htkfawr7x7wgqpyvvrffoq.streamlit.app/)|
 | 🎓 **ML Internship Work** | Boston House Price & Car Price Prediction — end-to-end ML pipelines | Python · Scikit-learn · Jupyter | [Explore →](https://github.com/manojkothakota/Internship-Report-ml-ai) |
 
 </div>
