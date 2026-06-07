@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Manoj%20Kothakota&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20Architect&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Kothakota%20Manoj&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20Architect&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -22,29 +21,32 @@
 
 ```python
 manoj = {
-    "name"      : "Kothakota Manoj",
-    "location"  : "India 🇮🇳",
-    "education" : "B.Tech CSE-AI (3rd Year) @ Amrita Vishwa Vidyapeetham",
-    "focus"     : ["LLMs", "RAG Systems", "LangChain", "LangGraph", "Agentic AI"],
-    "building"  : "Intelligent AI systems that reason, retrieve & respond",
-    "learning"  : ["Multi-Agent Frameworks", "Vector Databases", "MLOps"],
-    "goal"      : "SDE / ML Engineer @ Product Company | Class of 2027",
-    "superpower": "Turning complex AI research into working systems 🔬→💻",
-    "fun_fact"  : "I think in RAG pipelines and dream in embeddings 😄",
-    "open_to"   : ["Collaborations", "Research", "Internships", "Open Source"]
+    "name"        : "Kothakota Manoj",
+    "location"    : "India 🇮🇳",
+    "education"   : "B.Tech CSE-AI (3rd Year) @ Amrita Vishwa Vidyapeetham",
+    "focus"       : ["LLMs", "RAG Systems", "LangChain", "LangGraph", "Agentic AI"],
+    "building"    : "AI systems that reason, retrieve, and respond intelligently",
+    "internship"  : "ML/AI Intern — Boston House Price & Car Price Prediction (ML)",
+    "certifications": ["AI & ML @ STTP IIT", "Prompt Engineering", "IBM GenAI",
+                       "Oracle Foundations", "Python @ GeeksForGeeks",
+                       "RAG (Digital Sticker)", "Multiagent Systems", "AI Agents"],
+    "goal"        : "SDE / ML Engineer @ Product Company | Class of 2027",
+    "superpower"  : "Turning AI research into real working systems 🔬 → 💻",
+    "fun_fact"    : "I think in RAG pipelines and dream in embeddings 😄",
+    "open_to"     : ["AI Collaborations", "Research", "Internships", "Open Source"]
 }
 ```
 
-<img align="right" alt="AI Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="AI Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 What Drives Me
 
-- 🤖 **LLM Engineer** — Building RAG pipelines, agents & fine-tuned models
-- 🔗 **LangChain / LangGraph** — Designing multi-agent AI workflows
-- 🔍 **Computer Vision & NLP** — Research-grade models for real-world problems
-- 📊 **Data Science** — From raw data to actionable ML-driven insights
-- 🧪 **Research-Minded** — Curious about what's next in Generative AI
-- 🏆 **Placement Ready** — Targeting product companies with solid DSA + projects
+- 🤖 **LLM / RAG Engineer** — Building intelligent retrieval-augmented systems
+- 🔗 **Agentic AI** — Designing multi-agent workflows with LangChain & LangGraph
+- 🏥 **AI for Healthcare** — Applying ML to real-world health problems
+- 📊 **Data Science & ML** — From raw data to deployable predictive models
+- 🧪 **Research-Minded** — Exploring what's next in Generative AI
+- 🏆 **Placement Ready** — Targeting product companies with DSA + solid projects
 
 <br clear="right"/>
 
@@ -56,31 +58,33 @@ manoj = {
 <tr>
 <td width="50%">
 
-### 🎓 Education & Research
+### 🎓 Education & Experience
 - 🎓 **B.Tech CSE-AI** @ Amrita Vishwa Vidyapeetham
-- 📚 **CGPA:** [Your CGPA] (add if strong — 8+)
-- 📄 **Research Project:** [Your project name/domain]
-- 🔬 Active contributor to academic AI research
+- 💼 **ML/AI Internship** — Boston House Price Prediction & Car Price Prediction using Machine Learning
+- 🔬 Active in AI/ML research & academic projects
 
 </td>
 <td width="50%">
 
 ### 📜 Certifications
-- ✅ [Coursera / Google / AWS Cert Name]
-- ✅ [Another Certification]
-- ✅ [Add all your certs here]
-- ✅ Internship @ [Company Name]
-- ✅ Open Source Contributor
+- ✅ AI & ML Basics — **STTP IIT Certificate**
+- ✅ **Prompt Engineering** — Shaping Better AI Responses
+- ✅ **IBM** — Use Generative AI for Software Development
+- ✅ **IBM Watson** — Generate Code using IBM Watson Prompt Lab
+- ✅ **Oracle** — Foundational Certificate
+- ✅ **Python** — GeeksForGeeks Certification
+- ✅ **Python Full Stack** Completion — Telugu Life
+- ✅ RAG, AI Agents, Multiagent Systems — Digital Stickers
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### 🌐 Community & Experience
-- 💼 **Internship** @ [Company Name] — [Brief what you did]
-- 👥 Active in AI/ML communities at Amrita
-- 🧑‍💻 Open source contributions to [repo names]
+### 🌐 Community & Learning
+- 🧠 **Prayan AI** — Building AI-powered frontend applications
+- 📐 AI topics explored: RAG, Generative AI Ethics, AI Agents, Multiagent Systems
+- 💡 Maths participation (2024) — strong quantitative foundation
 
 </td>
 </tr>
@@ -92,17 +96,20 @@ manoj = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🔍 **RAG Document QA System** | Multi-doc Q&A with source citations using retrieval-augmented generation | LangChain · FAISS · OpenAI · Python | [Repo →](https://github.com/manojkothakota) |
-| 🤖 **Multi-Agent AI Workflow** | Stateful agentic system for complex reasoning & tool-use using LangGraph | LangGraph · LLMs · Python | [Repo →](https://github.com/manojkothakota) |
-| 🧬 **[Research Project Name]** | Academic research applying deep learning to [your domain] at Amrita | PyTorch · HuggingFace · [Domain] | [Repo →](https://github.com/manojkothakota) |
-| 📊 **[Data Science Project]** | End-to-end ML pipeline from data cleaning to deployment | Pandas · Scikit-learn · SQL | [Repo →](https://github.com/manojkothakota) |
-| 🌐 **[Web App Project]** | Full-stack application with AI-powered features | React · Node.js · MongoDB | [Repo →](https://github.com/manojkothakota) |
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🤖 **Prayan AI** | AI-powered web application with intelligent frontend interactions | JavaScript · AI APIs | [Explore →](https://github.com/manojkothakota/prayan_AI) |
+| 🏥 **AI Healthcare Platform** | Comprehensive AI-driven healthcare solution with smart diagnostics | Python · ML · AI | [Explore →](https://github.com/manojkothakota/AI_healthcare_platform) |
+| 💊 **Health Insurance ML** | Machine learning model to predict health insurance costs with high accuracy | Python · Scikit-learn · Pandas | [Explore →](https://github.com/manojkothakota/health_insurance) |
+| 🍽️ **Diet Recommendation AI** | Personalized diet recommendation system powered by ML algorithms | Python · ML · NLP | [Explore →](https://github.com/manojkothakota/diet_recommendation) |
+| 🗳️ **Election Analysis** | Data-driven election result analysis and prediction system | Python · Data Science | [Explore →](https://github.com/manojkothakota/election) |
+| 💧 **Dehydration AI Detection** | AI-based dehydration detection system using physiological signals | Python · Deep Learning | [Explore →](https://github.com/manojkothakota/dehydration-ai-based-detection-) |
+| 🧪 **Prompt Testing using AI** | Framework for testing and evaluating LLM prompt effectiveness | Python · LLMs · Prompts | [Explore →](https://github.com/manojkothakota/prompt-testing-using-ai) |
+| 🎓 **ML Internship Work** | Boston House Price & Car Price Prediction — end-to-end ML pipelines | Python · Scikit-learn · Jupyter | [Explore →](https://github.com/manojkothakota/Internship-Report-ml-ai) |
 
 </div>
 
-> 💡 *Each project has detailed documentation, architecture diagrams, and setup guides — click to explore!*
+> 💡 *Each repo contains detailed documentation, model results, and setup instructions — click to explore!*
 
 ---
 
@@ -117,6 +124,7 @@ manoj = {
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![IBM Watson](https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### 📊 Data Science & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -137,7 +145,7 @@ manoj = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -177,7 +185,7 @@ manoj = {
 
 ---
 
-## 🎯 Current Roadmap
+## 🎯 My AI Roadmap
 
 ```mermaid
 mindmap
@@ -188,17 +196,17 @@ mindmap
       Vector Databases
       Prompt Engineering
     Building
-      LLM-Powered Apps
-      Research Projects
-      Open Source Tools
+      AI Healthcare Apps
+      LLM-Powered Tools
+      Open Source AI
     Preparing
       DSA for Interviews
-      System Design
       ML System Design
+      Product Co Prep
     Growing
       Amrita Research
-      Open Source
-      Tech Community
+      IBM & Oracle Certs
+      AI Community
 ```
 
 ---
@@ -217,7 +225,7 @@ mindmap
 
 <div align="center">
 
-I'm always open to discussing AI research, LLM systems, or building something impactful together!
+Always open to discussing AI research, LLM systems, or building something impactful together!
 
 ### 📬 Reach Out
 
@@ -230,7 +238,7 @@ I'm always open to discussing AI research, LLM systems, or building something im
 
 - 🤖 AI/ML Research Collaborations
 - 💻 SDE / ML Engineer Roles (2026/27)
-- 🧪 Research Internships
+- 🧪 Research & AI Internships
 - 🔗 LLM & RAG Project Collaborations
 - 📚 Knowledge Sharing & Mentorship
 
@@ -252,9 +260,9 @@ I'm always open to discussing AI research, LLM systems, or building something im
 
 <div align="center">
 
-**Crafted with 🤖, ☕, and deep curiosity by Kothakota Manoj**
+**Crafted with 🤖, ☕ and deep curiosity by Kothakota Manoj**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;LLM+%26+RAG+Systems+Builder;LangChain+%7C+LangGraph+Developer;CSE-AI+@+Amrita+Vishwa+Vidyapeetham;Open+to+Internships+%26+Research!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Engineer;LLM+%26+RAG+Systems+Builder;AI+Healthcare+%7C+Data+Science;CSE-AI+%40+Amrita+Vishwa+Vidyapeetham;Open+to+Internships+%26+Product+Company+Roles!)
 
 *Last Updated: June 2026*
 
